@@ -30,7 +30,7 @@ python -m http.server 8000
 
 ## Voix
 
-Voix synthétiques originales conçues avec Qwen VoiceDesign et générées avec Qwen3-TTS Base 1.7B dans Voicebox. Six timbres pour dix-neuf rôles ; certains personnages secondaires partagent un timbre. Le narrateur lit aussi l’annonce de quarantaine.
+Narrateur : 33 séquences françaises générées avec Chatterbox, avec la voix validée. Personnages : les 27 séquences Qwen3-TTS Base 1.7B restent inchangées. Les timbres synthétiques originaux ont été conçus avec Qwen VoiceDesign dans Voicebox. Six timbres pour dix-neuf rôles ; certains personnages secondaires partagent un timbre. Le narrateur lit aussi l’annonce de quarantaine.
 
 ## Publication
 

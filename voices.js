@@ -3,7 +3,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p01-c01-t01.mp3"
+    "audio": "audio/p01-c01-t01.mp3?v=8a82f70abd0a"
   },
   "peace-dialogue": {
     "voiceId": "V18",
@@ -15,19 +15,19 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p01-c02-t01.mp3"
+    "audio": "audio/p01-c02-t01.mp3?v=2f605270183d"
   },
   "crystal-caption": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p01-c03-t01.mp3"
+    "audio": "audio/p01-c03-t01.mp3?v=83a458df9896"
   },
   "military-caption": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p01-c04-t01.mp3"
+    "audio": "audio/p01-c04-t01.mp3?v=568a5bdde599"
   },
   "military-dialogue": {
     "voiceId": "V02",
@@ -39,7 +39,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p02-c01-t01.mp3"
+    "audio": "audio/p02-c01-t01.mp3?v=013be04cb1ea"
   },
   "p02-01-text-2": {
     "voiceId": "V03",
@@ -51,7 +51,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p02-c02-t01.mp3"
+    "audio": "audio/p02-c02-t01.mp3?v=d62de6c62606"
   },
   "p02-02-text-2": {
     "voiceId": "V08",
@@ -63,7 +63,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p02-c03-t01.mp3"
+    "audio": "audio/p02-c03-t01.mp3?v=110914088c96"
   },
   "p02-03-text-2": {
     "voiceId": "V11",
@@ -75,7 +75,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p02-c04-t01.mp3"
+    "audio": "audio/p02-c04-t01.mp3?v=d9a26dd8db73"
   },
   "p02-04-text-2": {
     "voiceId": "V12",
@@ -87,13 +87,13 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p03-c01-t01.mp3"
+    "audio": "audio/p03-c01-t01.mp3?v=a397cfbdc16e"
   },
   "p03-02-text-1": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p03-c02-t01.mp3"
+    "audio": "audio/p03-c02-t01.mp3?v=afb79fde60c5"
   },
   "p03-02-text-2": {
     "voiceId": "V09",
@@ -105,7 +105,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p03-c03-t01.mp3"
+    "audio": "audio/p03-c03-t01.mp3?v=e19f8749d5fa"
   },
   "p03-03-text-2": {
     "voiceId": "V13",
@@ -117,13 +117,13 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p03-c04-t01.mp3"
+    "audio": "audio/p03-c04-t01.mp3?v=5937d7e0a4ad"
   },
   "p04-01-text-1": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p04-c01-t01.mp3"
+    "audio": "audio/p04-c01-t01.mp3?v=2132f7c7602c"
   },
   "p04-01-text-2": {
     "voiceId": "V19",
@@ -135,7 +135,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p04-c02-t01.mp3"
+    "audio": "audio/p04-c02-t01.mp3?v=fa6a1beadf18"
   },
   "p04-02-text-2": {
     "voiceId": "V05",
@@ -147,7 +147,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p04-c03-t01.mp3"
+    "audio": "audio/p04-c03-t01.mp3?v=e4428e442cc8"
   },
   "p04-03-text-2": {
     "voiceId": "V04",
@@ -159,19 +159,19 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p04-c04-t01.mp3"
+    "audio": "audio/p04-c04-t01.mp3?v=6200c2b3a8ce"
   },
   "p05-01-text-1": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p05-c01-t01.mp3"
+    "audio": "audio/p05-c01-t01.mp3?v=9acb982eca2f"
   },
   "p05-02-text-1": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p05-c02-t01.mp3"
+    "audio": "audio/p05-c02-t01.mp3?v=633b443b8901"
   },
   "p05-02-text-2": {
     "voiceId": "V15",
@@ -183,7 +183,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p05-c03-t01.mp3"
+    "audio": "audio/p05-c03-t01.mp3?v=35ed28fa75c7"
   },
   "p05-03-text-2": {
     "voiceId": "V07",
@@ -201,7 +201,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p06-c01-t01.mp3"
+    "audio": "audio/p06-c01-t01.mp3?v=5dc9a63b7850"
   },
   "p06-02-text-1": {
     "voiceId": "V16",
@@ -225,13 +225,13 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p07-c01-t01.mp3"
+    "audio": "audio/p07-c01-t01.mp3?v=aa5ff92bb757"
   },
   "p07-02-text-1": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p07-c02-t01.mp3"
+    "audio": "audio/p07-c02-t01.mp3?v=328ce2283487"
   },
   "p07-03-text-1": {
     "voiceId": "V10",
@@ -249,7 +249,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p08-c01-t01.mp3"
+    "audio": "audio/p08-c01-t01.mp3?v=e462f3612924"
   },
   "p08-01-text-2": {
     "voiceId": "V06",
@@ -261,7 +261,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p08-c02-t01.mp3"
+    "audio": "audio/p08-c02-t01.mp3?v=f467a74ac5ce"
   },
   "p08-02-text-2": {
     "voiceId": "V06",
@@ -273,7 +273,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p08-c03-t01.mp3"
+    "audio": "audio/p08-c03-t01.mp3?v=1b5f56f69975"
   },
   "p08-03-text-2": {
     "voiceId": "V05",
@@ -291,13 +291,13 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p09-c01-t01.mp3"
+    "audio": "audio/p09-c01-t01.mp3?v=bb16368412e8"
   },
   "p09-02-text-1": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p09-c02-t01.mp3"
+    "audio": "audio/p09-c02-t01.mp3?v=6a82de92ba9c"
   },
   "p09-02-text-2": {
     "voiceId": "V05",
@@ -309,7 +309,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p09-c03-t01.mp3"
+    "audio": "audio/p09-c03-t01.mp3?v=4be11933f37e"
   },
   "p09-03-text-2": {
     "voiceId": "V06",
@@ -321,7 +321,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p09-c04-t01.mp3"
+    "audio": "audio/p09-c04-t01.mp3?v=909c1bf96cca"
   },
   "p09-04-text-2": {
     "voiceId": "V07",
@@ -333,7 +333,7 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p10-c01-t01.mp3"
+    "audio": "audio/p10-c01-t01.mp3?v=5570a55a57f7"
   },
   "p10-01-text-2": {
     "voiceId": "V06",
@@ -345,18 +345,18 @@ window.BD_VOICES = {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p10-c02-t01.mp3"
+    "audio": "audio/p10-c02-t01.mp3?v=f8cfc96a86de"
   },
   "p10-03-text-1": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p10-c03-t01.mp3"
+    "audio": "audio/p10-c03-t01.mp3?v=0b78a6b003ac"
   },
   "p10-04-text-1": {
     "voiceId": "V01",
     "performerId": "V01",
     "character": "Narrateur",
-    "audio": "audio/p10-c04-t01.mp3"
+    "audio": "audio/p10-c04-t01.mp3?v=75eef3296b78"
   }
 };
