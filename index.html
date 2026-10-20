@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#000000">
+  <meta name="description" content="L’Héritage de Renaissance. Une bande dessinée en dix planches, à lire avec Espace ou en lecture automatique.">
+  <title>L’Héritage de Renaissance</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+  <script src="story.js" defer></script>
+  <script src="voices.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body class="guided">
+  <main>
+    <article id="comic" class="comic-page" aria-label="Bande dessinée" tabindex="-1"></article>
+    <noscript>Activez JavaScript pour lire la bande dessinée.</noscript>
+  </main>
+  <nav class="reader-controls" aria-label="Lecture">
+    <button id="nextStep" aria-keyshortcuts="Space ArrowRight"><kbd>Espace</kbd><span id="nextLabel">pour avancer</span></button>
+    <button id="autoPlay" aria-pressed="false">▷ Lecture auto</button>
+  </nav>
+  <div id="liveMessage" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+</body>
+</html>
